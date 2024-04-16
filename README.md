@@ -1,6 +1,7 @@
 # History-of-Toyota-Viz
 # Tech Stack: Python, Pandas, Beautiful Soup, MS Excel
 
+Data: https://www.toyota-global.com/company/history_of_toyota/75years/data/automotive_business/sales/sales_volume/overseas/region.html
 
 Objective: 
 
