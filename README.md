@@ -25,7 +25,8 @@ This project is inspired by my experience at Toyota Motors, where I absorbed the
 
 
 Visualization on MS Excel:
-​![Screenshot 2024-04-10 123704](https://github.com/HusainMiyala/History-of-Toyota-Viz/assets/98285048/e73699cb-20d7-4377-90e1-0279532ad94c)
+​![PdfImage](https://github.com/HusainMiyala/History-of-Toyota-Viz/assets/98285048/92915610-5ea7-45e6-b8ba-e7168d160eb0)
+
 
 
 ​
