@@ -24,7 +24,7 @@ Motivation:
 This project is inspired by my experience at Toyota Motors, where I absorbed the principle of Kaizen, emphasizing continuous improvement. Motivated by this ethos, I've dedicated myself to enhancing my data analytic skills.
 
 
-Visualization on MS Excel:
+Visualization (Tableau + Microsoft Excel):
 ​![PdfImage](https://github.com/HusainMiyala/History-of-Toyota-Viz/assets/98285048/92915610-5ea7-45e6-b8ba-e7168d160eb0)
 
 
